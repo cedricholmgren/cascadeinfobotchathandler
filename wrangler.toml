@@ -1,0 +1,4 @@
+name = "cascadeinfobotchathandler"
+main = "src/worker.js"
+compatibility_date = "2024-02-27"
+workers_dev = true
